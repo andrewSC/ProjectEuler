@@ -1,5 +1,3 @@
-
-
 def find_sum_of_multiples(max_sum):
     sum, x, y = (0, 1, 1)
     t1 = lambda x: 3*x
